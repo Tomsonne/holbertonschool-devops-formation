@@ -1,0 +1,1 @@
+Le type test correspond à l’ajout, la correction ou l’amélioration de tests dans le projet.
