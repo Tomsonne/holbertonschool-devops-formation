@@ -1,4 +1,4 @@
-## What is DevOp
+## What is DevOps ?
 
 **DevOps** is a way of working that brings software developers (**Dev**) and IT operations (**Ops**) together.
 
