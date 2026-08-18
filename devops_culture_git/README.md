@@ -1,0 +1,1 @@
+devOps : DevOps is a way of working that brings software developers (Dev) and IT operations (Ops) together. It breaks down walls between teams so they can build, test, and release software faster, safer, and with fewer bugs.
