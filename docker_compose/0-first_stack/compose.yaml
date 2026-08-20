@@ -10,6 +10,8 @@ services:
   api:
     build:
       context: ./api
+    ports:
+      - "5001:5000"
     environment:
       DATABASE_HOST: db
       DATABASE_PORT: 5432
